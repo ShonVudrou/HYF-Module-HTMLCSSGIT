@@ -1,0 +1,5 @@
+1. To create a hidden file: mkdir .filename (put the dot before the filename)
+To show hidden files: ls -a
+2. To create multiple nested directories: mkdir -p a/b/c/d 
+3. To append a message to a file without a newline character: printf "newText" >> filename
+
